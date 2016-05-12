@@ -1,4 +1,4 @@
-package info.androidhive.materialdesign.activity;
+package info.howcum.AwaazV2.activity;
 
 /**
  * Created by Ravi on 29/07/15.
@@ -19,7 +19,7 @@ import android.widget.EditText;
 
 import java.io.File;
 
-import info.androidhive.materialdesign.R;
+import info.howcum.AwaazV2.R;
 
 
 public class ExplorerFragment extends Fragment {

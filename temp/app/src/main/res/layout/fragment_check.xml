@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:background="@color/navigationBarColor"
 
-    tools:context="info.androidhive.materialdesign.activity.CheckFragment">
+    tools:context="info.howcum.AwaazV2.activity.CheckFragment">
 
 
 

@@ -1,4 +1,4 @@
-package info.androidhive.materialdesign.activity;
+package info.howcum.AwaazV2.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -18,7 +18,7 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.Locale;
 
-import info.androidhive.materialdesign.R;
+import info.howcum.AwaazV2.R;
 
 /**
  * Created by Ravi on 29/07/15.

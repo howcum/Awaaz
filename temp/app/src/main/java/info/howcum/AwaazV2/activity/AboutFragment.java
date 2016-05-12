@@ -1,4 +1,4 @@
-package info.androidhive.materialdesign.activity;
+package info.howcum.AwaazV2.activity;
 
 /**
  * Created by Ravi on 29/07/15.
@@ -10,7 +10,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import info.androidhive.materialdesign.R;
+import info.howcum.AwaazV2.R;
 
 
 public class AboutFragment extends Fragment {

@@ -1,4 +1,4 @@
-package info.androidhive.materialdesign.activity;
+package info.howcum.AwaazV2.activity;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -12,7 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import info.androidhive.materialdesign.R;
+import info.howcum.AwaazV2.R;
 
 public class MainActivity extends AppCompatActivity implements FragmentDrawer.FragmentDrawerListener {
 

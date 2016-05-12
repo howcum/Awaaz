@@ -1,4 +1,4 @@
-package info.androidhive.materialdesign.activity;
+package info.howcum.AwaazV2.activity;
 
 /**
  * Created by Ravi on 29/07/15.
@@ -24,7 +24,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Locale;
 
-import info.androidhive.materialdesign.R;
+import info.howcum.AwaazV2.R;
 
 
 public class VoicefileFragment extends Fragment {

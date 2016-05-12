@@ -1,10 +1,9 @@
-package info.androidhive.materialdesign.activity;
+package info.howcum.AwaazV2.activity;
 
 /**
  * Created by Ravi on 29/07/15.
  */
 import android.app.Activity;
-import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.Intent;
 import android.media.MediaPlayer;
@@ -24,12 +23,10 @@ import android.widget.ImageButton;
 import android.widget.Toast;
 
 import java.io.File;
-import java.lang.reflect.Field;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Locale;
 
-import info.androidhive.materialdesign.R;
+import info.howcum.AwaazV2.R;
 
 
 public class HomeFragment extends Fragment {

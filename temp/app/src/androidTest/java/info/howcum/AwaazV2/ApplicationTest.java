@@ -1,4 +1,4 @@
-package info.androidhive.materialdesign;
+package info.howcum.AwaazV2;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
