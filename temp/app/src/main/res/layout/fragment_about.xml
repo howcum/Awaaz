@@ -1,0 +1,118 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    tools:context="info.androidhive.materialdesign.activity.SpeakFragment">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Developers"
+        android:id="@+id/textView10"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Arnab Roy"
+        android:id="@+id/textView11"
+        android:layout_below="@+id/textView10"
+        android:layout_marginTop="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="howcumhowcome@gmail.com"
+        android:id="@+id/textView12"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/textView11"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="01681689173"
+        android:layout_marginTop="10dp"
+        android:id="@+id/textView13"
+        android:layout_below="@+id/textView12"
+        android:layout_centerHorizontal="true" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Md. Shafiul Islam"
+        android:id="@+id/textView21"
+        android:layout_below="@+id/textView13"
+        android:layout_marginTop="20dp"
+
+
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Shaft@gmail.com"
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView22"
+        android:layout_below="@+id/textView21"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="01761543717"
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView23"
+        android:layout_below="@+id/textView22"
+        android:layout_centerHorizontal="true" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Md. Tamzid Munir"
+        android:id="@+id/textView31"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/textView23"
+
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Tamzid@gmail.com"
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView32"
+        android:layout_below="@+id/textView31"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="01772953631"
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView33"
+        android:layout_below="@+id/textView32"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

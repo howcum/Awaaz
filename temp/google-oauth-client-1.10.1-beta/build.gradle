@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('google-oauth-client-1.10.1-beta.jar'))
