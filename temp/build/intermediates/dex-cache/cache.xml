@@ -2,48 +2,6 @@
 <items version="2" >
 
     <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\google-api-client-1.10.3-beta\google-api-client-1.10.3-beta.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d29b1290ecd70554abd578cc69faafaa60388514">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\google-api-client-1.10.3-beta-7d1b5592868c765a8b68acfef873aca6a83377f3.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-e7f998c3a1d36d91f1d59a3e1e320aaf1d833e7b.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-55e9e12c94186abc9ebd5fddc2d467dff84425b1.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-bb42024e823838ed869b38da5aacf6d676c82887.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-af44d8ff0ba278f5374c9952486d4aacd9b81841.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-7ebadbb6bde1df09ab2c8b9e90569140375f7799.jar" />
-    </item>
-    <item
         jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -51,81 +9,11 @@
         <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-df18a7acd5d5d4b889471bf630951ecd88ca08f6.jar" />
     </item>
     <item
-        jar="C:\Users\ASUS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-3da33b6b20814c5ad9919fb802fc39c84001e035.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-8b8ed507866b650c9c4d5d2a873f86be2e725d30.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-a595474afe5e823549a18d269a6910d3ea2b6491.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-75fc3f4647e818ad0f2a5aa576fb2df5499f282d.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-bc27de6ffbe2dbd1b69bf2184c134cdcc4002742.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-3ec883fff032bf51d71857b7d60300a9ae1165f1.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="055783146ba9654a725442563be78cad303aad1f">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-6798ef3246fc1e96c89b6f8d0891bd9263acb5d2.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-741d94a152e11334b81e3cc6cdd6b5a41d3f2370.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-acc06209548081ae817e4a77013695e12e29c913.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-11e06b593461927a784f8a949d5421d9a2eb0a91.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-6a485eecd8359f0bc9e3bb366a0198bd329d07cf.jar" />
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-bb42024e823838ed869b38da5aacf6d676c82887.jar" />
     </item>
     <item
         jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
@@ -142,25 +30,116 @@
         <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-0a067351bff42d2a2c7e64b20bad4a1a71fffe1c.jar" />
     </item>
     <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-36683f6b4d7f2081555b1cd419e33312aa9d18a6.jar" />
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-af44d8ff0ba278f5374c9952486d4aacd9b81841.jar" />
     </item>
     <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-6c37144f6b247ba7759f7f23897bd7fe1afd5ff5.jar" />
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-11e06b593461927a784f8a949d5421d9a2eb0a91.jar" />
     </item>
     <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-a028d1e7c1af832fa1af7660e25a77a2b07b1ba4.jar" />
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-6a485eecd8359f0bc9e3bb366a0198bd329d07cf.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-e7f998c3a1d36d91f1d59a3e1e320aaf1d833e7b.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-a595474afe5e823549a18d269a6910d3ea2b6491.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-bc27de6ffbe2dbd1b69bf2184c134cdcc4002742.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-3da33b6b20814c5ad9919fb802fc39c84001e035.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-75fc3f4647e818ad0f2a5aa576fb2df5499f282d.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-8b8ed507866b650c9c4d5d2a873f86be2e725d30.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-7ebadbb6bde1df09ab2c8b9e90569140375f7799.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-741d94a152e11334b81e3cc6cdd6b5a41d3f2370.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\google-api-client-1.10.3-beta\google-api-client-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d29b1290ecd70554abd578cc69faafaa60388514">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\google-api-client-1.10.3-beta-7d1b5592868c765a8b68acfef873aca6a83377f3.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-6798ef3246fc1e96c89b6f8d0891bd9263acb5d2.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-acc06209548081ae817e4a77013695e12e29c913.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-59bc8037889e6dcc225e06b684e348c139f8a235.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-3ec883fff032bf51d71857b7d60300a9ae1165f1.jar" />
     </item>
     <item
         jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
@@ -170,18 +149,39 @@
         <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-fad0c5b59c2d2073c588f07f22c8b7173e917b5d.jar" />
     </item>
     <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-55e9e12c94186abc9ebd5fddc2d467dff84425b1.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-36683f6b4d7f2081555b1cd419e33312aa9d18a6.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-a028d1e7c1af832fa1af7660e25a77a2b07b1ba4.jar" />
+    </item>
+    <item
+        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-6c37144f6b247ba7759f7f23897bd7fe1afd5ff5.jar" />
+    </item>
+    <item
         jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
         <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-f709134ac9ec3f6e6b7c839093b2294cb32ba408.jar" />
-    </item>
-    <item
-        jar="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
-        <dex dex="D:\android\Awaaz v2.0\Awaaz\temp\app\build\intermediates\pre-dexed\debug\classes-59bc8037889e6dcc225e06b684e348c139f8a235.jar" />
     </item>
 
 </items>
